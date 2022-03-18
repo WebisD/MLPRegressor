@@ -55,3 +55,32 @@
 
 ![image](https://user-images.githubusercontent.com/49571908/158914800-d709e9b5-8340-45e4-b0cb-bfaede902aff.png)
 
+## teste4.np
+
+### 1º Simulação
+![image](https://user-images.githubusercontent.com/56837996/158937723-3be83e37-95f0-4da4-b4d5-06724c388899.png)
+
+![image](https://user-images.githubusercontent.com/56837996/158937807-37f97d80-23e9-4825-ac7e-d0bea9a4dc25.png)
+
+![image](https://user-images.githubusercontent.com/56837996/158937850-6737479d-2de5-49ac-9b39-e28529e38643.png)
+
+### 2º Simulação
+
+![image](https://user-images.githubusercontent.com/56837996/158938378-107449a7-73df-4af5-b4ef-92cbb0efd8cd.png)
+
+![image](https://user-images.githubusercontent.com/56837996/158938317-9259f241-d774-418c-99de-d86dce8d944a.png)
+
+![image](https://user-images.githubusercontent.com/56837996/158938406-be83726b-4b09-43b4-9032-89d400fd8ebd.png)
+
+### 3º Simulação
+
+![image](https://user-images.githubusercontent.com/56837996/158938589-1190b972-d110-4093-bca2-5d4ce5972efd.png)
+
+![image](https://user-images.githubusercontent.com/56837996/158938712-522b6723-ee19-4f2b-b8b8-94705e2a8dfe.png)
+
+![image](https://user-images.githubusercontent.com/56837996/158938733-af380347-4e80-4f56-9988-28ce2aa977fa.png)
+
+
+
+
+
