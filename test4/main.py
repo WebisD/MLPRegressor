@@ -23,7 +23,7 @@ def main() -> None:
                          activation='relu',
                          solver='adam',
                          learning_rate='adaptive',
-                         n_iter_no_change=5000)
+                         n_iter_no_change=500)
 
     simulate_rule(rule1, coords)
     simulate_rule(rule2, coords)
