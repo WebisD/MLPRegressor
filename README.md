@@ -89,4 +89,10 @@
 
 ![image](https://user-images.githubusercontent.com/56837996/159097180-b6258c2d-38ff-4dd2-beea-e9e919ccd591.png)
 
+### 2º Simulação
+
+![image](https://user-images.githubusercontent.com/56837996/159097817-83ac48ac-98df-4622-88f3-45f399dc31ec.png)
+
+![image](https://user-images.githubusercontent.com/56837996/159097853-9d7aa665-29a0-4dcd-adf6-b02041c078fe.png)
+
 
