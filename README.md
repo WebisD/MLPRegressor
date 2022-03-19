@@ -1,5 +1,7 @@
 # MLPRegressor
 
+Testes utilizando o MLPRegressor em diversos casos de teste. Com exceção do último teste, todos foram executados 5 vezes para o cálculo da média e desvio padrão. 
+
 ## teste2.npy
 
 ### 1ª Simulação
