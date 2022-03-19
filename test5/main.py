@@ -18,12 +18,12 @@ def main() -> None:
                          learning_rate='adaptive',
                          n_iter_no_change=10000)
     
-    # rule3 = MLPRegressor(hidden_layer_sizes=(150, 50, 50, 150),
-    #                      max_iter=1000,
-    #                      activation='relu',
-    #                      solver='adam',
-    #                      learning_rate='adaptive',
-    #                      n_iter_no_change=500)
+    rule3 = MLPRegressor(hidden_layer_sizes=(50, 50, 60, 70, 80, 80),
+                        max_iter=70000,
+                        activation='logistic',
+                        solver='adam',
+                        learning_rate = 'adaptive',
+                        n_iter_no_change=10000)
 
     simulate_rule(rule1, coords)
     simulate_rule(rule2, coords)
