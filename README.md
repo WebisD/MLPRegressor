@@ -95,4 +95,10 @@
 
 ![image](https://user-images.githubusercontent.com/56837996/159097853-9d7aa665-29a0-4dcd-adf6-b02041c078fe.png)
 
+### 3º Simulação
+
+![image](https://user-images.githubusercontent.com/56837996/159098969-3fcc1897-16d3-4f0c-a6c6-23a410553c75.png)
+
+![image](https://user-images.githubusercontent.com/56837996/159098989-57860a64-6470-4185-af05-895b1af63bda.png)
+
 
